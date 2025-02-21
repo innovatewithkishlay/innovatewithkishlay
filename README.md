@@ -28,6 +28,12 @@ Whether it's **development** or **tinkering with AI & IoT**, I'm always up to le
   <a href="https://www.instagram.com/kishlay_012" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://x.com/kishlay_012" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/kishlay_012/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
 </div>
 
 <hr style="opacity: 0.05; border: 0.5px solid #ccc;" />

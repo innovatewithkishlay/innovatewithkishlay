@@ -4,10 +4,10 @@
 
 ## 🌟 **About Me**
 A **coder & tech explorer** who enjoys turning **ideas into reality** through innovation.  
-Whether it's **full-stack development** or **tinkering with AI & IoT**, I'm always up to learn new things!  
+Whether it's **development** or **tinkering with AI & IoT**, I'm always up to learn new things!  
 
 - 🔭 **I’m currently working on:**  
-  **Full-Stack Projects** 
+  **Development Projects** 
 - 🌱 **I currently need help with:**  
   **AI Technologies, Internet of Things**  
 - 🌐 **My vision:**  

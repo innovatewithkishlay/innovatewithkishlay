@@ -46,9 +46,10 @@ Whether it's **development** or **tinkering with AI & IoT**, I'm always up to le
 
 ### ⚡ **GitHub Stats**
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innovatewithkishlay&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
-<br/>
-<div align="center">
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</div>
+

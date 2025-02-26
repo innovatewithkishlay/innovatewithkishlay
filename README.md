@@ -50,6 +50,7 @@ Whether it's **development** or **tinkering with AI & IoT**, I'm always up to le
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innovatewithkishlay&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
   
-  <img src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&token=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" height="150" alt="streak graph" />
+
 </div>
 

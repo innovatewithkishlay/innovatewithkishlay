@@ -1,4 +1,4 @@
-<h1 align="center">
+h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;I'm+Kishlay!;Currently+pursuing+B.Tech;" />
 </h1>
 
@@ -20,10 +20,7 @@ Whether it's **development** or **tinkering with AI & IoT**, I'm always up to le
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=innovatewithkishlay&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
   
-<img src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&token=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" height="150" alt="streak graph" />
-
+  <img src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&token=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" height="150" alt="streak graph" />
 </div>
-
-

@@ -4,14 +4,7 @@
 
 
 ## 🌟 **About Me**
-A **coder & tech explorer** who enjoys turning **ideas into reality** through innovation.  
-Whether it's **development** or **tinkering with AI & IoT**, I'm always up to learn new things!  
-
-- 🔭 **I’m currently working on:**  
-  **Development Projects** 
-- 🌱 **I currently need help with:**  
-  **AI Technologies, Internet of Things**  
-- 🌐 **My vision:**  
+A **coder & tech explorer** who enjoys
   To **build a sustainable future** using technology while continuously learning and applying new tools.  
 - ⚡ **Fun Fact:**  
   *"Every problem has a solution—sometimes it just needs a bit of chai ☕ and a peaceful place to think!"*

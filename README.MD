@@ -1,7 +1,7 @@
 
 
 
-<hr/>
+
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
 

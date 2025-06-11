@@ -24,27 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
-    height="220" 
-    alt="GitHub Stats" 
-  />
-</div>
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&custom_width=400&hide=html,css" 
-    height="180" 
-    alt="Top Languages" 
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=radical&hide_border=true&border_radius=5" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
-</div>
 
 ---
 
@@ -80,15 +60,27 @@
 
 ---
 
-## ⚡ Quick Facts
+## 📊 GitHub Stats
 
-- 💬 **Ask me about:** Full-stack development, open source, or anything tech!
-- 🌱 **Currently learning:** Cloud, DevOps, and advanced backend architectures.
-- 🤝 **Open to:** Collaboration, hackathons, and cool project ideas!
-- 😄 **Pronouns:** He/Him
-
----
-
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
+    height="220" 
+    alt="GitHub Stats" 
+  />
+</div>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&custom_width=400&hide=html,css" 
+    height="180" 
+    alt="Top Languages" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=radical&hide_border=true&border_radius=5" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
+</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

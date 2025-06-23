@@ -1,42 +1,51 @@
+<p align="center">
+  <b>Hi, I'm Kishlay Kumar — Full-Stack Dev & Tech Explorer.</b><br>
+  <em>Let's connect and build something awesome!</em>
+</p>
 
-<div align="center">
-
-  <a href="mailto:kkishlay502@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p align="center">
+  <a href="mailto:kkishlay502@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" alt="Gmail"/>
   </a>
-  
-  <a href="https://linkedin.com/in/kishlaykumar1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://linkedin.com/in/kishlaykumar1" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn"/>
   </a>
-  
-  <a href="https://twitter.com/kishlay_012" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  &nbsp;
+  <a href="https://twitter.com/kishlay_012" title="Twitter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" alt="Twitter"/>
   </a>
-  
-  <a href="https://instagram.com/kishlay_012" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp;
+  <a href="https://instagram.com/kishlay_012" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32" alt="Instagram"/>
   </a>
+  &nbsp;
+  <a href="https://bsky.app/profile/kishlay1.bsky.social" title="Bluesky">
+    <img src="https://raw.githubusercontent.com/ericwbailey/bluesky-social-icons/main/png/icon-48x48.png" width="32" alt="Bluesky"/>
+  </a>
+  &nbsp;
+  <a href="https://kishlaykumar.onrender.com" title="Portfolio">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="32" alt="Portfolio"/>
+  </a>
+</p>
 
-</div>
-
-
-
+<br>
 
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
-    height="220" 
+    height="180" 
     alt="GitHub Stats" 
   />
-</div>
-<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&custom_width=400&hide=html,css" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" 
     height="180" 
     alt="Top Languages" 
   />
-  
 </div>
+
+<br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

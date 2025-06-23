@@ -1,30 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kishlay+Kumar!;B.Tech+Student+%7C+Full-Stack+Developer" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-1E90FF?style=flat-square&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/B.Tech%20Student-FFD700?style=flat-square&logo=graduation-cap&logoColor=black" />
-  <img src="https://img.shields.io/badge/Open%20Source-33CC99?style=flat-square&logo=github&logoColor=white" />
-</p>
-
----
-
-## ✨ About Me
-
-> 🎓 **Coder & Tech Explorer**  
-> 🛠️ Building a **sustainable future** through technology  
-> 💡 Always **curious**, always **learning**, always **building**.
-
-- 🌐 **Portfolio:**  
-  [**kishlaykumar.onrender.com**](https://kishlaykumar.onrender.com)
-
-- ☕ **Fun Fact:**  
-  *"Every problem has a solution—sometimes it just needs a bit of chai and a peaceful place to think!"*
-
----
-
-## 📬 Connect with Me
 
 <div align="center">
 
@@ -46,15 +19,7 @@
 
 </div>
 
----
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,git,github,html,css,tailwind" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 

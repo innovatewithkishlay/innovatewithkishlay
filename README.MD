@@ -36,11 +36,7 @@
     height="180" 
     alt="Top Languages" 
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=radical&hide_border=true&border_radius=5" 
-    height="180" 
-    alt="GitHub Streak" 
-  />
+  
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

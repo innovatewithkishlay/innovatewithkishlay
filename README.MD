@@ -1,68 +1,82 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=2000&color=F7C873&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Kishlay+Kumar!;Full-Stack+Developer+%7C+B.Tech+Student" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=36&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;I'm+Kishlay+Kumar!;B.Tech+Student+%7C+Full-Stack+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20%F0%9F%92%BB-Full--Stack-informational?style=flat-square" />
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8E%20Open%20Source-Enthusiast-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Learning-Always-blueviolet?style=flat-square" />
-</p>
-
----
-
-## 👋 About Me
-
-- 🛠️ **Tech for a better tomorrow.**
-- 🌱 **Curious coder & lifelong learner.**
-- ☕ **Chai-powered problem solver.**
-- 🌐 [**Portfolio**](https://kishlaykumar.onrender.com)
-
----
-
-## 🛠️ My Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,git,github,tailwind" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-1E90FF?style=flat-square&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech%20Student-FFD700?style=flat-square&logo=graduation-cap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20Source-33CC99?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Quick Connect
+## ✨ About Me
 
-<p align="center">
-  <a href="mailto:kkishlay502@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32"/>
+> 🎓 **Coder & Tech Explorer**  
+> 🛠️ Building a **sustainable future** through technology  
+> 💡 Always **curious**, always **learning**, always **building**.
+
+- 🌐 **Portfolio:**  
+  [**kishlaykumar.onrender.com**](https://kishlaykumar.onrender.com)
+
+- ☕ **Fun Fact:**  
+  *"Every problem has a solution—sometimes it just needs a bit of chai and a peaceful place to think!"*
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+
+  <a href="mailto:kkishlay502@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/kishlaykumar1" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
+  
+  <a href="https://linkedin.com/in/kishlaykumar1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/kishlay_012" title="Twitter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32"/>
+  
+  <a href="https://twitter.com/kishlay_012" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/kishlay_012" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="32"/>
+  
+  <a href="https://instagram.com/kishlay_012" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
+
+</div>
 
 ---
 
-## ✨ Fun Fact
-
-> _“Every bug is just a misunderstood feature (best fixed with chai)!”_
-
----
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&theme=calm&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&theme=calm&hide_border=true&hide=html,css" height="170" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,java,cpp,git,github,html,css,tailwind" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
+    height="220" 
+    alt="GitHub Stats" 
+  />
+</div>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&custom_width=400&hide=html,css" 
+    height="180" 
+    alt="Top Languages" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=innovatewithkishlay&mode=daily&theme=radical&hide_border=true&border_radius=5" 
+    height="180" 
+    alt="GitHub Streak" 
+  />
+</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
----
-
-### ⭐️ _Let’s build something amazing together!_

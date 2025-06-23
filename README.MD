@@ -21,7 +21,7 @@
   </a>
   &nbsp;
   <a href="https://bsky.app/profile/kishlay1.bsky.social" title="Bluesky">
-    <img src="https://cdn.jsdelivr.net/gh/ericwbailey/bluesky-social-icons/png/icon-48x48.png" width="32" alt="Bluesky"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bluesky-app-icon.png" width="32" alt="Bluesky"/>
   </a>
   &nbsp;
   <a href="https://kishlaykumar.onrender.com" title="Portfolio">

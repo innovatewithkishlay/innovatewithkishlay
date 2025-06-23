@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://pplx-res.cloudinary.com/image/private/user_uploads/73355340/1f855231-2998-4389-904f-d76f1fcdae52/gooo.jpg" alt="Deadline Humor" width="400"/>
+  <img src="gooo.gif" alt="Fun GIF" width="400"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/kishlaykumar1" title="LinkedIn"><img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/></a>
   <a href="https://twitter.com/kishlay_012" title="Twitter"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="32" alt="Twitter"/></a>
   <a href="https://instagram.com/kishlay_012" title="Instagram"><img src="https://img.icons8.com/color/48/instagram-new.png" width="32" alt="Instagram"/></a>
-  <a href="https://bsky.app/profile/kishlay1.bsky.social" title="Bluesky"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bluesky-app-icon.png" width="32" alt="Bluesky"/></a>
+  <a href="https://bsky.app/profile/kishlay1.bsky.social" title="Bluesky"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bluesky_butterfly-logo.svg/32px-Bluesky_butterfly-logo.svg.png" width="32" alt="Bluesky"/></a>
   <a href="https://kishlaykumar.onrender.com" title="Portfolio"><img src="https://img.icons8.com/ios-filled/50/domain.png" width="32" alt="Portfolio"/></a>
 </p>
 

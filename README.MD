@@ -21,7 +21,6 @@
 
 
 
-## 📊 GitHub Stats
 
 <div align="center">
   <img 

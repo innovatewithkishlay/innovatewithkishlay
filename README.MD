@@ -1,4 +1,9 @@
 <p align="center">
+  <b>Hi, I'm Kishlay Kumar — Full-Stack Dev & Tech Explorer.</b><br>
+  <em>Let's connect and build something awesome!</em>
+</p>
+
+<p align="center">
   <a href="mailto:kkishlay502@gmail.com" title="Email">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32" alt="Gmail"/>
   </a>
@@ -16,10 +21,31 @@
   </a>
   &nbsp;
   <a href="https://bsky.app/profile/kishlay1.bsky.social" title="Bluesky">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bluesky-app-icon.png" width="32" alt="Bluesky"/>
+    <img src="https://cdn.jsdelivr.net/gh/ericwbailey/bluesky-social-icons/png/icon-48x48.png" width="32" alt="Bluesky"/>
   </a>
   &nbsp;
   <a href="https://kishlaykumar.onrender.com" title="Portfolio">
     <img src="https://img.icons8.com/ios-filled/50/domain.png" width="32" alt="Portfolio"/>
   </a>
+</p>
+
+<br>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
+    height="180" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" 
+    height="180" 
+    alt="Top Languages" 
+  />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

@@ -7,6 +7,7 @@
   <img src="gooo.gif" alt="Fun GIF" width="400"/>
 </p>
 
+### Let's get connected
 <p align="center">
   <a href="mailto:kkishlay502@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/kishlaykumar1" title="LinkedIn"><img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/></a>

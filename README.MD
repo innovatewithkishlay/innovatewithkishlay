@@ -22,7 +22,6 @@
 <br>
 
 <div align="center">
-  <h2>📊 My GitHub Stats</h2>
   <br>
 
   <p>

@@ -32,10 +32,6 @@
 
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=chartreuse_dark&utcOffset=5.5" alt="Productive Time" />
-  </p>
-
-  <p>
-    <!-- New cards reflecting your GitHub username -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=chartreuse_dark" alt="Repos per Language" />
   </p>
 </div>

@@ -26,7 +26,7 @@
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" alt="Languages I have used" />
 
   </p>
 

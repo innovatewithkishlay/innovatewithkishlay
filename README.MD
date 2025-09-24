@@ -37,6 +37,5 @@
   <p>
     <!-- New cards reflecting your GitHub username -->
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=chartreuse_dark" alt="Repos per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=innovatewithkishlay&theme=chartreuse_dark" alt="Most Commit Language" />
   </p>
 </div>

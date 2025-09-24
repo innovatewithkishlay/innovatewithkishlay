@@ -31,7 +31,6 @@
   </p>
 
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovatewithkishlay&theme=chartreuse_dark" alt="GitHub Profile Summary" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=chartreuse_dark&utcOffset=5.5" alt="Productive Time" />
   </p>
 

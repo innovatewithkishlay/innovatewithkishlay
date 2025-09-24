@@ -33,6 +33,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovatewithkishlay&theme=chartreuse_dark" alt="GitHub Profile Summary" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=chartreuse_dark&utcOffset=5.5" alt="Productive Time" />
   </p>
-</div>
 
-<br>
+  <p>
+    <!-- New cards reflecting your GitHub username -->
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=chartreuse_dark" alt="Repos per Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=innovatewithkishlay&theme=chartreuse_dark" alt="Most Commit Language" />
+  </p>
+</div>

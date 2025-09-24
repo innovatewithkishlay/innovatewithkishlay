@@ -26,7 +26,7 @@
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=chartreuse_dark" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
 
   </p>
 

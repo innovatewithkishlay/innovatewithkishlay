@@ -6,8 +6,11 @@
 <p align="center">
   <img src="gooo.gif" alt="Fun GIF" width="400"/>
 </p>
+
 <p align="center">
   <b> Let's get connected.</b><br>
+</p>
+
 <p align="center">
   <a href="mailto:kkishlay502@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/kishlaykumar1" title="LinkedIn"><img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/></a>
@@ -19,16 +22,22 @@
 <br>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" 
-    height="180" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" 
-    height="180" 
-    alt="Top Languages" 
-  />
+  <h2>📊 My GitHub Stats</h2>
+  <br>
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=innovatewithkishlay&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
+  </p>
+
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovatewithkishlay&theme=chartreuse_dark" alt="GitHub Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=chartreuse_dark&utcOffset=5.5" alt="Productive Time" />
+  </p>
 </div>
 
 <br>

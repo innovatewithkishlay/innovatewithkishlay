@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Hi, I'm Kishlay Kumar:- Full-Stack Dev & Tech Explorer.</b><br>
+  <b>Hi, I'm Kishlay Kumar:- Full Stack Dev & Tech Explorer.</b><br>
   <em>Let's connect and build something awesome!</em>
 </p>
 

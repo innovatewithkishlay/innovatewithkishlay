@@ -8,28 +8,28 @@
 </p>
 
 <p align="center">
-  <b> Let's get connected.</b><br>
+  <b>Let's get connected.</b><br>
 </p>
 
 <p align="center">
   <a href="mailto:kkishlay502@gmail.com" title="Email">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32" alt="Gmail"/>
   </a>
 
   <a href="https://linkedin.com/in/kishlaykumar1" title="LinkedIn">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/>
   </a>
 
   <a href="https://twitter.com/kishlay_012" title="Twitter">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="32"/>
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="32" alt="Twitter"/>
   </a>
 
   <a href="https://instagram.com/kishlay_012" title="Instagram">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="32"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="32" alt="Instagram"/>
   </a>
 
   <a href="https://kishlayspace.in" title="Portfolio">
-    <img src="https://img.icons8.com/ios-filled/50/domain.png" width="32"/>
+    <img src="https://img.icons8.com/ios-filled/50/domain.png" width="32" alt="Portfolio"/>
   </a>
 </p>
 
@@ -37,22 +37,10 @@
 
 <div align="center">
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=innovatewithkishlay&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovatewithkishlay&theme=github_dark"/>
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovatewithkishlay&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=github_dark"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-  <img height="170"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=github_dark"/>
-
-  <img height="170"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=github_dark"/>
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=github_dark"/>
 
 </div>

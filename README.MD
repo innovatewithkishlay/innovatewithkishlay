@@ -37,10 +37,12 @@
 
 <div align="center">
 
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovatewithkishlay&theme=github_dark"/>
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=innovatewithkishlay&theme=github_dark" />
 
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=github_dark"/>
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=innovatewithkishlay&theme=github_dark" />
 
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=github_dark"/>
+  <br><br>
+
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=innovatewithkishlay&theme=github_dark" />
 
 </div>
